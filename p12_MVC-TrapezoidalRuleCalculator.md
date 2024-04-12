@@ -103,7 +103,9 @@ que sigue el patrón MVC.
 * Por último, en el artículo
 [Build a Simple MVC App From Scratch in JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/)
 se explica con detalle la implementación de una aplicación (lista de tareas) siguiendo el patrón MVC.
-El código de la aplicación utilizando clases ES6 de JS está disponible a través de los enlaces del artículo.
+En el repositorio del trabajo expuesto en clase sobre MVC
+[Trabajo MVC](https://github.com/ULL-ESIT-PAI-2023-2024/2023-2024-pai-mvc-pablo-medina-moreno/tree/master/src/todo-example)
+pueden encontrar el código adaptado a TypeScript de la aplicación.
 
 ### Cálculo de áreas usando la regla del trapecio 
 En esta práctica se propone desarrollar una aplicación TypeScript basada en el patrón MVC.
@@ -177,6 +179,8 @@ que Ud. haya cerrado la sesión linux en la máquina IaaS.
 
 ## Referencias
 * [Modelo-vista-controlador](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Build a Simple MVC App From Scratch in JavaScript](https://www.taniarascia.com/javascript-mvc-todo-app/)
+* [Trabajo MVC](https://github.com/ULL-ESIT-PAI-2023-2024/2023-2024-pai-mvc-pablo-medina-moreno/tree/master/src/todo-example)
 * [mathjs](https://mathjs.org/)
 * [Runing Node JS Server In Background](https://iulianpopa.ro/nodejs/2021/06/04/running-node-js-server-in-background/)
 * [PAI Code Examples](https://github.com/ULL-ESIT-PAI-2023-2024/PAI-class-code-examples)
