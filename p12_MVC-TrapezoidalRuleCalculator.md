@@ -113,8 +113,10 @@ La aplicación permitirá el cálculo aproximado del área bajo una curva utiliz
 dispondrá de una interfaz gráfica que permitirá visualizar la aplicación de la regla así como modificar
 algunos parámetros del cálculo.
 
-La regla del trapecio es un método que puede utilizarse para hallar el área bajo una curva. 
-La técnica consiste en aproximar el área de la curva por la suma de las áreas de una serie de trapecios,
+La 
+[regla del trapecio](https://en.wikipedia.org/wiki/Trapezoidal_rule)
+es un método de integración numérica, es decir, un método para calcular aproximadamente el valor de una integral definida. 
+La regla se basa en aproximar el valor de la integral por la suma de las áreas de una serie de trapecios,
 siendo muy fácil calcular el área de un trapecio.
 Cuanto mayor es el número de trapecios, mejor será la aproximación que se consiga para el área.
 
