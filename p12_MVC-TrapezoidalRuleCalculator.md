@@ -93,7 +93,7 @@ y se ha popularizado asimismo para el diseño de aplicaciones web.
 Es fácil encontrar en la web información sobre el patrón MVC, así como ejemplos de implementación del
 mismo en diferentes lenguajes.
 Los siguientes son elementos que puede utilizar para iniciarse en el estudio del patrón MVC:
-* [Estas transparencias](https://campusingenieriaytecnologia2223.ull.es/pluginfile.php/4388/mod_resource/content/2/FAlmeida-Transparencias-MVC2020.pdf)
+* [Estas transparencias](https://campusingenieriaytecnologia2324.ull.es/pluginfile.php/7746/mod_resource/content/2/FAlmeida-Transparencias-MVC2020.pdf)
 del profesor F. Almeida pueden ser un buen punto de toma de contacto con MVC.
 * En [esta otra página](https://www.roseindia.net/tutorial/java/jdbc/javamvcdesignpattern.html)
 puede hallar otra explicación detallada del modelo con una imagen que muestra el papel y las relaciones entre
@@ -117,7 +117,7 @@ siendo muy fácil calcular el área de un trapecio.
 Cuanto mayor es el número de trapecios, mejor será la aproximación que se consiga para el área.
 
 [Esta aplicación](https://academo.org/demos/trapezoidal-rule-calculator/)
-se tomará como referencia de la aplicación que se propone desarrollar y en ella dispone de una explicación más
+se tomará como referencia para la que se propone desarrollar y en ella dispone de una explicación más
 detallada de la regla del trapecio.
 
 Diseñe su aplicación web como una SPA
