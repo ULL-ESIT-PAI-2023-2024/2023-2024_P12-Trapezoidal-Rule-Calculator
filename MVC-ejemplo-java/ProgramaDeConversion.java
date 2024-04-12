@@ -1,3 +1,19 @@
+/**
+ * Universidad de La Laguna
+ * Escuela Superior de Ingeniería y Tecnología
+ * Grado en Ingeniería Informática
+ * Programación de Aplicaciones Interactivas
+ *
+ * @author F. de Sande
+ * @since Apr 6, 2020
+ *        Compilar y ejecutar: 
+ *        
+ *         javac ProgramaDeConversion.java 
+ *         java ProgramaDeConversion 
+ *        
+ *         Hay dos versiones (una de ellas comentadas) para usar una "vista" textual o gráfica
+ */
+
 import java.awt.*;
 import java.awt.event.*;
 import java.io.BufferedReader;
