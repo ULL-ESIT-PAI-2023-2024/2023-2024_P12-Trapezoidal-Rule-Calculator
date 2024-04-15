@@ -131,8 +131,7 @@ de modo que toda la simulación se muestre en el viewport del navegador sin nece
 En su aplicación (y a diferencia de la de referencia), al pulsar el botón 'Update' el valor aproximado del área de la
 curva se imprimirá (*Sum of all Trapezium areas:*) dentro del canvas en el que se visualiza la curva.
 
-En su aplicación necesitará evaluar una función (Campo *Expression*) que es introducida como texto por el
-usuario.
+En su aplicación necesitará evaluar una función que es introducida como texto por el usuario (Campo *Expression*).
 Para ello puede resultarle útil usar una librería como 
 [mathjs](https://mathjs.org/)
 que entre otras funcionalidades incluye un analizador sintáctico de expresiones.
